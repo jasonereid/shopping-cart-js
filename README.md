@@ -2,9 +2,14 @@
 
 This project is to showcase my abilities in building basic applications using HTML, CSS and vanilla JavaScript (no libraries/frameworks). I thought a simple shopping cart / e-commerce app would be a good fit for this. 
 
-The JavaScript uses some good fundamentals like workimg with nested arrays, loops, passing variables and callimg functions, and more. It also dynamically generates and updates portions of the HTML and CSS to show off some basic DOM manipulation skills.
+The JavaScript uses some good fundamentals like working with nested arrays, loops, passing variables and calling functions, and more. It also dynamically generates and updates portions of the HTML and CSS to show off some basic DOM manipulation skills.
 
 # system design
+
+## technologies
+HTML5, Bootstrap 5 CSS, JavaScript
+
+## minimum viable product
 
 1. cart functions
 
